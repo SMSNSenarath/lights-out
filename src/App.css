@@ -1,5 +1,13 @@
+Body{
+  background-color: rgb(9, 9, 49);
+}
+
 .App {
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
 
 .App-logo {
